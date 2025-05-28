@@ -1,4 +1,4 @@
-const POINTS_AMOUNT = 4000;
+const POINTS_AMOUNT = 2500;
 
 function getRandomVertex() {
   const vertices = [
