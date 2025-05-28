@@ -7,8 +7,8 @@ This project visualizes the **Sierpiński triangle** using the **Chaos Game algo
 - 🔁 Real-time fractal generation with animation
 - ⚡ Ultra-lightweight: no frameworks, no dependencies
 - 2 versions
--- 🎨 Rendered using `<canvas>` for high performance
--- 🎨 Adding elements to the DOM low parents
+  - 🎨 Rendered using `<canvas>` for high performance
+  - 🎨 Adding elements to the DOM low parents
 - 🧠 Simple and educational code structure
 
 ## 🖥️ Live Preview
